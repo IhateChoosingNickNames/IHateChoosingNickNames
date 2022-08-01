@@ -2,7 +2,7 @@
 - 🔭 I’m currently studing at YandexPracticum, Python backend developer section.
 - 🌱 I’m currently learning Python and it's tools as mentioned above.
 - 🤔 I’m still learning how to update my GitHub profile and just checking some new features.
-- ⚡ Fun fact: Everything in Python is an object. But how to prove it? Easy:
+- ⚡ Fun fact: Everything in Python is an **object**. But how to prove it? Easy:
 ```
 if isinstance('anything', object):
   print('If anything is an object -> everything is an object')
