@@ -12,6 +12,15 @@ if isinstance('anything', object):
   <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="100"/>
 </div>
 
+- ⚡ Some links describing me:
+<div id="badges">
+  <a href="https://www.codewars.com/users/7IdE">
+    <img src="https://img.shields.io/badge/Codewars-red?logo=codewars&logoColor=white" alt="Codewars Badge"/>
+  </a>
+  <a href="https://stepik.org/users/455582638L">
+    <img src="https://img.shields.io/badge/Stepik-black?logo=stepik&logoColor=white" alt="Stepik Badge"/>
+</div>
+
 <!--
 **IhateChoosingNickNames/IHateChoosingNickNames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
