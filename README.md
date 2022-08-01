@@ -3,7 +3,7 @@
 My name is Mike and i'm one of the best Python developers...in the future, ofc. :satisfied:
 - :cityscape: Current location: Moscow, Russia.
 - 🔭 I’m currently studing at YandexPracticum, Python backend developer section.
-- 🌱 I’m currently learning Python and it's tools as mentioned above.
+- 🌱 I’m currently learning Python and its tools as mentioned above.
 - 🤔 I’m still learning how to update my GitHub profile and just checking some new features, so...take it easy. :rofl:
 - :cat: Languages i speak: Russian, English, Python.
 
