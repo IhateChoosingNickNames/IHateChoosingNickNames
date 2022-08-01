@@ -24,6 +24,6 @@ if isinstance('anything', object):
     <img src="https://img.shields.io/badge/LeetCode-white?logo=leetcode&logoColor=orange" alt="LeetCode Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=IhateChoosingNickNames&color=green" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=IHateChoosingNickNames&style=for-the-badge&color=green" alt=""/>
 
 
