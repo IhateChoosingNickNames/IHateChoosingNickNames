@@ -19,6 +19,10 @@ if isinstance('anything', object):
   </a>
   <a href="https://stepik.org/users/455582638">
     <img src="https://img.shields.io/badge/Stepik-black?logo=stepik&logoColor=white" alt="Stepik Badge"/>
+  </a>
+    <a href="https://leetcode.com/7IdE/">
+    <img src="https://img.shields.io/badge/LeetCode-white?logo=leetcode&logoColor=orange" alt="LeetCode Badge"/>
+  </a>
 </div>
 
 <!--
