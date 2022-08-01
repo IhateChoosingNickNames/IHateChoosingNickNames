@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🔭 I’m currently studing in YandexPracticum
+🌱 I’m currently learning Python and it's tools
+🤔 I’m still learning how to update my GitHub profile
 <!--
 **IhateChoosingNickNames/IHateChoosingNickNames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
