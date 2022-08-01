@@ -17,7 +17,7 @@ if isinstance('anything', object):
   <a href="https://www.codewars.com/users/7IdE">
     <img src="https://img.shields.io/badge/Codewars-red?logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
-  <a href="https://stepik.org/users/455582638L">
+  <a href="https://stepik.org/users/455582638">
     <img src="https://img.shields.io/badge/Stepik-black?logo=stepik&logoColor=white" alt="Stepik Badge"/>
 </div>
 
