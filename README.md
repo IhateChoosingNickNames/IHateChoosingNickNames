@@ -1,7 +1,13 @@
-### Hi there 👋. My name is Mike and i'm one of the best Python developer...in the future, ofc. :satisfied:
+### :man_technologist: Hi there 👋. 
+### About Me : 
+My name is Mike and i'm one of the best Python developer...in the future, ofc. :satisfied:
+- :cityscape: Current location: Moscow, Russia
 - 🔭 I’m currently studing at YandexPracticum, Python backend developer section.
 - 🌱 I’m currently learning Python and it's tools as mentioned above.
-- 🤔 I’m still learning how to update my GitHub profile and just checking some new features.
+- 🤔 I’m still learning how to update my GitHub profile and just checking some new features, so...take it easy. :rofl:
+
+---
+
 - ⚡ Fun fact: Everything in Python is an **object**. But how to prove it? Easy:
 ```
 if isinstance('anything', object):
@@ -11,6 +17,8 @@ if isinstance('anything', object):
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="300"/>
 </div>
+
+---
 
 - ⭐ Some links describing me:
 <div id="badges">
@@ -24,6 +32,8 @@ if isinstance('anything', object):
     <img src="https://img.shields.io/badge/LeetCode-white?logo=leetcode&logoColor=orange" alt="LeetCode Badge"/>
   </a>
 </div>
+
+---
 
 - 😇 Just to know...
 
