@@ -1,6 +1,6 @@
 ### :man_technologist: Hi there 👋. 
 ### About Me : 
-My name is Mike and i'm one of the best Python developer...in the future, ofc. :satisfied:
+My name is Mike and i'm one of the best Python developers...in the future, ofc. :satisfied:
 - :cityscape: Current location: Moscow, Russia.
 - 🔭 I’m currently studing at YandexPracticum, Python backend developer section.
 - 🌱 I’m currently learning Python and it's tools as mentioned above.
