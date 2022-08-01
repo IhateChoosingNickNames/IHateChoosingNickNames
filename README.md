@@ -12,7 +12,7 @@ if isinstance('anything', object):
   <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="300"/>
 </div>
 
-- ⚡ Some links describing me:
+- ⭐ Some links describing me:
 <div id="badges">
   <a href="https://www.codewars.com/users/7IdE">
     <img src="https://img.shields.io/badge/Codewars-red?logo=codewars&logoColor=white" alt="Codewars Badge"/>
@@ -24,6 +24,9 @@ if isinstance('anything', object):
     <img src="https://img.shields.io/badge/LeetCode-white?logo=leetcode&logoColor=orange" alt="LeetCode Badge"/>
   </a>
 </div>
+
+- 😇 Just to know...
+
 <img src="https://komarev.com/ghpvc/?username=IHateChoosingNickNames&style=for-the-badge&color=green" alt=""/>
 
 
