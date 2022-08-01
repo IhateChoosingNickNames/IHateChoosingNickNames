@@ -7,6 +7,11 @@
 if isinstance('anything', object):
   print('If anything is an object -> everything is an object')
 ```
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="100"/>
+</div>
+
 <!--
 **IhateChoosingNickNames/IHateChoosingNickNames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
